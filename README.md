@@ -1,7 +1,6 @@
-# Hi there 👋 I'm cody!
+
 
 # Hi there 👋 I'm cody! 😃 
-
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F7F7F7&width=500&lines=Welcome+to+my+profile!;I+am+learning+how+to+code...;...and+building+cool+things!;" alt="Typing SVG" />
 </a>
