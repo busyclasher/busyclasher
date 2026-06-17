@@ -2,7 +2,8 @@
 
 😃 Welcome to my profile! I am learning how to code, building things, and improving my programming skills.
 
----
+---<img width="900" height="328" alt="CT_profile_bg_rain_flicker_no_pan_under_1MB" src="https://github.com/user-attachments/assets/100ea588-7c9c-446a-b222-b96ab1134981" />
+
 
 ### 💫 About Me
 * 🧑‍🎓 I’m currently an applied ai undergrad, focused on speech products for public good and shipping agentic workflows.
