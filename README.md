@@ -1,15 +1,15 @@
-# Hi there 👋 I'm codii!
+# Hi there 👋 I'm cody!
 
 😃 Welcome to my profile! I am learning how to code, building things, and improving my programming skills.
 
 ---
 
 ### 💫 About Me
-* 🧑‍🎓 I’m currently focused on ...
-* 🌱 I’m currently learning ...
-* 🧑‍💻 I’m currently working on Full Stack Related Projects.
-* 💬 Ask me about ...
-* ⚡ Fun fact: ...
+* 🧑‍🎓 I’m currently focused on speech products for public good and shipping agentic workflows.
+* 🌱 I’m currently learning how to navigate speech annonymization
+* 🧑‍💻 I’m currently working on callbridge.
+* 💬 Let's chat about product and ai engineering.
+* ⚡ Fun fact: <insert fun fact>
 
 ---
 
